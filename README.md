@@ -3,7 +3,9 @@ Go Study materials &amp; projects
 
 ## Troubleshooting
 
-- Some times in `Linux` Server when we want particular type of `go version`, and even though after installing that, and when we check for the go version, it shows the previously installed go versions. In that case, it is better to check for go path locations, and delete all other unimportant go versions:
+- Sometimes in `Linux` Server when we want particular type of `go version`, and even though after installing that, and when we check for the go version, it shows the previously installed go versions. In that case, it is better to check for go path locations, and delete all other unimportant go versions:
+
+![image](https://github.com/afa-farkhod/Go-Study/assets/24220136/6ac2ec90-6bb1-47b9-9308-dea0ba1fcf7a)
 
 ## Resources
 
