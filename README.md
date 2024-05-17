@@ -12,12 +12,9 @@ $ whereis go
 $ sudo rm -rf /usr/local/go
 ```
 
---------------
+### Useful Go commands:
 
---------------------------------------------------------------------------------------------------------------------------
-<Go commands>
--------------------------------
-- $ whereis go (shows go installation path)
+- `whereis go` - shows go installation path
 - $ sudo rm -rf /usr/local/go/bin (removes go path)
 - go mod tidy (removes any unused dependencies and adds any missing dependencies to the go. mod file)                                                                                                                                                              
 - $ go get -d "github.com/strangelove-ventures/noble/v4@v4.1.0-rc.0" (get the particular update version and download to go.mod)
