@@ -1,5 +1,5 @@
-# Go-Study
-Go Study materials &amp; projects
+# Golang 
+Go useful materials &amp; links
 
 ## Troubleshooting
 
