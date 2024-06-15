@@ -31,4 +31,5 @@ $ sudo rm -rf /usr/local/go
 - [Go-Packages](https://pkg.go.dev/) - Go official packages page, where you can get any Go supported packages
 - [Go-Course-YouTube](https://www.youtube.com/watch?v=yyUHQIec83I) - Golang Tutorial for Beginners | Full Go Course by TechWorld with Nana
 - [Go-Book-Pdf](https://www.golang-book.com/public/pdf/gobook.pdf) - Introduction to Go. By Caleb Doxsey
+- [The-Little-Go-Book](https://www.openmymind.net/assets/go/go.pdf) - by Karl Seguin
 
