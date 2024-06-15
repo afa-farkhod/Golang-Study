@@ -33,4 +33,5 @@ $ sudo rm -rf /usr/local/go
 - [Go-Book-Pdf](https://www.golang-book.com/public/pdf/gobook.pdf) - Introduction to Go. By Caleb Doxsey
 - [The-Little-Go-Book](https://www.openmymind.net/assets/go/go.pdf) - by Karl Seguin
 - [The-Way-To-Go](https://dn790004.ca.archive.org/0/items/TheWayToGo/The_Way_To_Go.pdf) - by Ivo Balbaert
+- [Go-YouTube-Tutorial](https://www.youtube.com/watch?v=3iuoQkQOx2w&list=PLS1QulWo1RIaRoN4vQQCYHWDuubEU8Vij) - by ProgrammingKnowledge, Go beginner course
 
