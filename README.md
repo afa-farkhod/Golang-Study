@@ -1,6 +1,17 @@
 # Golang 
 Go useful materials &amp; links
 
+## Use Cases Comparison: C++ vs Go
+
+| Use Case                | C++                         | Go                          |
+|-------------------------|---------------------------|----------------------------|
+| **Game Development**    | 🎯 Unreal Engine, Unity   | ❌ Not widely used         |
+| **System Programming**  | 🎯 OS, Embedded Systems   | ❌ Limited low-level control |
+| **Web Backend**        | ⚠️ Possible with Boost    | 🎯 Popular (Gorilla, Fiber) |
+| **High-Performance Computing** | 🎯 Scientific computing | ⚠️ Less suited for HPC |
+| **Cloud Services**      | ⚠️ Less common            | 🎯 Kubernetes, Docker, Microservices |
+| **Finance/Trading**     | 🎯 Used in HFT            | ⚠️ Some usage, but less common |
+
 ## Troubleshooting
 
 - Sometimes in `Linux` Server when we want particular type of `go version`, and even though after installing that, and when we check for the go version, it shows the previously installed go versions. In that case, it is better to check for go path locations, and delete all other unimportant go versions:
