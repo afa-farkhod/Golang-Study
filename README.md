@@ -39,6 +39,13 @@ $ sudo rm -rf /usr/local/go
 | `go list -m -versions "github.com/sei-protocol/sei-chain/"` | lists available git repository versions |
 | `go get -u "github.com/sei-protocol/sei-chain@7ad39e4"` | use commit hash value |
 
+<img width="389" height="448" alt="image" src="https://github.com/user-attachments/assets/ddf23eeb-a671-479b-8c77-beaa8dd91001" />
+
+<img width="393" height="485" alt="image" src="https://github.com/user-attachments/assets/5a2abcf6-069c-45da-b9bd-6aa5484ce474" />
+
+<img width="390" height="441" alt="image" src="https://github.com/user-attachments/assets/f6a1e9f5-1059-4f82-ad19-3151a40f402e" />
+
+
 ## Resources
 
 - [w3schools](https://www.w3schools.com/java/default.asp) - tutorial platform free of charge
