@@ -56,5 +56,5 @@ $ sudo rm -rf /usr/local/go
 - [The-Way-To-Go](https://dn790004.ca.archive.org/0/items/TheWayToGo/The_Way_To_Go.pdf) - by Ivo Balbaert
 - [Go-YouTube-Tutorial](https://www.youtube.com/watch?v=3iuoQkQOx2w&list=PLS1QulWo1RIaRoN4vQQCYHWDuubEU8Vij) - by ProgrammingKnowledge, Go beginner course
 - [codeacademy](https://www.codecademy.com/courses/learn-go/lessons/learn-go-introduction/exercises/from-the-get-go)
-- [Golang tutorial series](https://golangbot.com/learn-golang-series/) - Golang tutorial series
+- ✅ [Golang tutorial series](https://golangbot.com/learn-golang-series/) - Golang tutorial series
 - https://pkg.go.dev/std - lists all standard packages (fmt, net/http, io, os, etc.)
