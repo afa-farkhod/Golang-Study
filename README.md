@@ -58,3 +58,4 @@ $ sudo rm -rf /usr/local/go
 - [codeacademy](https://www.codecademy.com/courses/learn-go/lessons/learn-go-introduction/exercises/from-the-get-go)
 - ✅ [Golang tutorial series](https://golangbot.com/learn-golang-series/) - Golang tutorial series
 - https://pkg.go.dev/std - lists all standard packages (fmt, net/http, io, os, etc.)
+- 🔺 [LeetCode](https://leetcode.com/problemset/) - practice coding problems
