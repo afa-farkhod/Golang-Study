@@ -3,16 +3,16 @@ Go useful materials &amp; links
 
 ## Use Cases Comparison: C++ vs Go vs Python
 
-| Use Case                 | C++                          | Go                          | Python                        |
-|--------------------------|----------------------------|----------------------------|------------------------------|
-| **Game Development**     | 🎯 Unreal Engine, Unity   | ❌ Not widely used         | ⚠️ Used in AI-driven games  |
-| **System Programming**   | 🎯 OS, Embedded Systems   | ❌ Limited low-level control | ❌ Not designed for system-level programming |
-| **Web Backend**         | ⚠️ Possible with Boost    | 🎯 Popular (Gorilla, Fiber) | 🎯 Popular (Django, Flask, FastAPI) |
-| **High-Performance Computing** | 🎯 Scientific computing | ⚠️ Less suited for HPC | 🎯 Used in AI/ML (NumPy, TensorFlow, PyTorch) |
-| **Cloud Services**       | ⚠️ Less common            | 🎯 Kubernetes, Docker, Microservices | 🎯 Widely used in cloud (AWS Lambda, serverless) |
-| **Finance/Trading**      | 🎯 Used in HFT            | ⚠️ Some usage, but less common | 🎯 Widely used in data analysis and fintech |
-| **Data Science / AI**    | ⚠️ Less common            | ❌ Not widely used         | 🎯 Dominant choice (Pandas, Scikit-learn, PyTorch) |
-| **Scripting & Automation** | ❌ Not ideal             | ⚠️ Some use cases         | 🎯 Perfect for automation and scripting |
+| Use Case                       | C++                         | Go                                   | Python                                                |
+|--------------------------------|-----------------------------|--------------------------------------|-------------------------------------------------------|
+| **Game Development**           | 🎯 Unreal Engine, Unity     | ❌ Not widely used                    | ⚠️ Used in AI-driven games                            |
+| **System Programming**         | 🎯 OS, Embedded Systems     | ❌ Limited low-level control          | ❌ Not designed for system-level programming           |
+| **Web Backend**                | ⚠️ Possible with Boost      | 🎯 Popular (Gorilla, Fiber)          | 🎯 Popular (Django, Flask, FastAPI)                   |
+| **High-Performance Computing** | 🎯 Scientific computing     | ⚠️ Less suited for HPC               | 🎯 Used in AI/ML (NumPy, TensorFlow, PyTorch)         |
+| **Cloud Services**             | ⚠️ Less common              | 🎯 Kubernetes, Docker, Microservices | 🎯 Widely used in cloud (AWS Lambda, serverless)      |
+| **Finance/Trading**            | 🎯 Used in HFT              | ⚠️ Some usage, but less common       | 🎯 Widely used in data analysis and fintech           |
+| **Data Science / AI**          | ⚠️ Less common              | ❌ Not widely used                    | 🎯 Dominant choice (Pandas, Scikit-learn, PyTorch)    |
+| **Scripting & Automation**     | ❌ Not ideal                | ⚠️ Some use cases                    | 🎯 Perfect for automation and scripting               |
 
 
 ## Troubleshooting
