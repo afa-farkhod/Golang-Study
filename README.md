@@ -46,6 +46,8 @@ $ sudo rm -rf /usr/local/go
 
 <img width="390" height="441" alt="image" src="https://github.com/user-attachments/assets/f6a1e9f5-1059-4f82-ad19-3151a40f402e" />
 
+<img width="304" height="394" alt="Screenshot 2026-02-08 at 5 47 44 PM" src="https://github.com/user-attachments/assets/bce7472c-439e-499e-934b-f6346d9a0361" />
+
 
 ## Resources
 
