@@ -1,5 +1,6 @@
 # Golang 
-Go useful materials &amp; links
+> [!NOTE]  
+> Go useful materials &amp; links
 
 ## Use Cases Comparison: C++ vs Go vs Python
 
